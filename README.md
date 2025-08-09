@@ -1,1 +1,1 @@
-The sample R code for applying joint model with left-censoring covariate and survival outcome is in example_dat1_apply.r; the results are in the files: example_apply_results.txt and example_apply_results.RData.
+The sample R code for applying the joint model with left-censoring covariate and survival outcome is in the file example_dat1_apply.r; the results are in the files: example_apply_results.txt (plain text format) and example_apply_results.RData (R data file format).
